@@ -23,4 +23,4 @@ Front End Developer | UI/UX Designer <br> I am 22 year old developer/designer. L
 <br>
 
 **You can reach me at :**<br>
-[LinkedIn](https://www.linkedin.com/in/anshumanvats/) | [Medium](https://medium.com/@avats765)
+[LinkedIn](https://www.linkedin.com/in/anshumanvats/) I [Medium](https://medium.com/@avats765)
