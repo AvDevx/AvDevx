@@ -1,8 +1,5 @@
-<img align="right" height="300px" src="https://miro.medium.com/max/700/1*FKtUlAKHCBjTftUFUgsnew.gif"> 
+<img align="right" height="280px" src="https://miro.medium.com/max/700/1*FKtUlAKHCBjTftUFUgsnew.gif"> 
 <!-- Credit: https://medium.com/@tiantianxu  -->
-<br>
-<br>
-<br>
 
  ### Anshuman Vats 👋 
 
