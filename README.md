@@ -15,9 +15,8 @@
  ⚡ Fun fact: ... Snape should have used the time turner to kill *`you know who`*<br>
 
 <br>
-
 <img align="right" height="400px" src="https://miro.medium.com/max/700/1*FKtUlAKHCBjTftUFUgsnew.gif"> 
 <!-- Credit: https://medium.com/@tiantianxu  -->
 
 **You can reach me at :**<br>
-<img height="32" width="32" style="color:#0077B5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+[LinkedIn](https://www.linkedin.com/in/anshumanvats/) | [Medium](https://medium.com/@avats765)
