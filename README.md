@@ -4,7 +4,7 @@
 
  ### Anshuman Vats 👋 
 
-Front End Developer | UI/UX Designer <br> I am a 22 year old developer/designer. Learning to contribute and work collabarativery with amazaing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
+Front End Developer | UI/UX Designer <br> I am a 22 year old developer/designer. Learning to contribute and work collaboratively with amazing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
  
  <br>
 
