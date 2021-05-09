@@ -8,13 +8,13 @@ Front End Developer | UI/UX Designer <br> I am a 23 year old developer/designer.
  
  <br>
 
-<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> &nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;&nbsp;&nbsp;<img width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> &nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">&nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp;&nbsp;&nbsp;<img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 
 <br>
 
  🔭 I’m currently trying to contribute to ... [`Kong/insomnia`](https://github.com/Kong/insomnia)<br>
- 🌱 I’m currently learning ... `React`<br>
+ 🌱 I’m currently learning ... `Vue`<br>
  👯 I’m looking to collaborate on ... `JavaScript Projects`<br>
  🤔 I’m looking for help with ... `Docker` & `AWS`<br>
  💬 Start a conversation about ... `Design` & `Development` <br>
