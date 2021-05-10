@@ -23,4 +23,4 @@ Full Stack Developer | UI/UX Designer <br> I am a 23 year old developer/designer
 <br>
 
 **You can reach me at :**<br>
-[LinkedIn](https://www.linkedin.com/in/anshumanvats/) I [Medium](https://medium.com/@avats765)
+[LinkedIn](https://www.linkedin.com/in/anshumanvats/) I [Medium](https://medium.com/@AvDevx)
