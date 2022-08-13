@@ -4,7 +4,7 @@
 
  ### Anshuman Vats 👋 
 
-Full Stack Developer | UI/UX Designer <br> I am a 23 year old developer/designer. Learning to contribute and work collaboratively with amazing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
+Tech Lead <br> I am a 24 year old developer/designer. Learning to contribute and work collaboratively with amazing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
  
  <br>
 
@@ -13,7 +13,7 @@ Full Stack Developer | UI/UX Designer <br> I am a 23 year old developer/designer
 
 <br>
 
- 🌱 I’m currently learning ... `Vue`<br>
+ 🌱 I’m currently learning ... `Nuxt`<br>
  👯 I’m looking to collaborate on ... `JavaScript Projects`<br>
  🤔 I’m looking for help with ... `Docker` & `AWS`<br>
  💬 Start a conversation about ... `Design` & `Development` <br>
