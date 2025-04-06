@@ -4,7 +4,7 @@
 
  ### Anshuman Vats 👋 
 
-Tech Lead <br> I am a 26 year old developer/designer. Learning to contribute and work collaboratively with amazing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
+Tech Lead <br> I am a 27 year old developer/designer. Learning to contribute and work collaboratively with amazing developer around the world. I love Javascript and find it to be constantly evolving language in both good and bad ways.  
  
  <br>
 
